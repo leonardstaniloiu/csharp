@@ -1,0 +1,15 @@
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\bin\Debug\net6.0\TemaGDSC.exe
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\bin\Debug\net6.0\TemaGDSC.deps.json
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\bin\Debug\net6.0\TemaGDSC.runtimeconfig.json
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\bin\Debug\net6.0\TemaGDSC.dll
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\bin\Debug\net6.0\TemaGDSC.pdb
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.csproj.AssemblyReference.cache
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.AssemblyInfoInputs.cache
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.AssemblyInfo.cs
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.csproj.CoreCompileInputs.cache
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.dll
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\refint\TemaGDSC.dll
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.pdb
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\TemaGDSC.genruntimeconfig.cache
+C:\Users\Leonard\RiderProjects\TemaGDSC\TemaGDSC\obj\Debug\net6.0\ref\TemaGDSC.dll
